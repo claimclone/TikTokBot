@@ -1,1 +1,1 @@
-worker: python _.py
+worker: python app/tik_tok.py
